@@ -3,12 +3,12 @@ var images = [];
 var time = 2000;
 
 	
-images[0] = 'images/thedoors-min.jpg';
-images[1] = 'images/strangedays-min.jpg';
-images[2] = 'images/waitingforthesun-min.jpg';
-images[3] = 'images/thesoftparade-min.jpg';
-images[4] = 'images/morrisonhotel-min.jpg';
-images[5] = 'images/lawoman-min.jpg';
+images[0] = 'thedoors-min.jpg';
+images[1] = 'strangedays-min.jpg';
+images[2] = 'waitingforthesun-min.jpg';
+images[3] = 'thesoftparade-min.jpg';
+images[4] = 'morrisonhotel-min.jpg';
+images[5] = 'lawoman-min.jpg';
 
 	
     function changeImg(){
